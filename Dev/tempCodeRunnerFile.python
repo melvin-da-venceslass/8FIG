@@ -1,0 +1,3 @@
+x = input("scan the barcoe")
+print(x)
+print(x.split("-")[1][0:-1])

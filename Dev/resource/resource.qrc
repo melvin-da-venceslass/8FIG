@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>label.png</file>
+    <file>label.jpg</file>
+    <file>online.png</file>
+    <file>Scan4.jpg</file>
+    <file>red.png</file>
+    <file>check.png</file>
+    <file>label.png</file>
+    <file>ref.png</file>
+    <file>pngegg.png</file>
+    <file>app logo.png</file>
+    <file>search.png</file>
+    <file>SMART ENGG LOGO-4.png</file>
+    <file>logo_f.jpg</file>
+    <file>banner.png</file>
+    <file>setp_1.png</file>
+    <file>setp_2.png</file>
+    <file>setp_3.png</file>
+    <file>FAVICON.png</file>
+    <file>warnning.png</file>
+  </qresource>
+</RCC>
